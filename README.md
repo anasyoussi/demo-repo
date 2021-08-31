@@ -7,6 +7,6 @@ Some description!
 
 Watch tut on yt 
 
-##local Devlopment 
+## local Devlopment 
 
 1. Open indexx.html in your browser 
